@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himeshika De Silva</h1>
-- 🌱 I’m currently learning **Information Technology @SLIIT**
+- 🌱 I’m currently learning Information Technology @SLIIT
 
 - 📫 How to reach me **himeshikaharshani@gmail.com**
 
